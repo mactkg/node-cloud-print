@@ -2,23 +2,23 @@
 	"name": "cloud-print",
 	"description": "The cloud print module",
 	"version": "0.0.2",
-	"homepage": "https://github.com/postmen/node-cloud-print",
+	"homepage": "https://github.com/mactkg/node-cloud-print",
 	"author": {
-		"name": "Postmen",
-		"email": "support@postmen.com",
-		"url": "https://www.postmen.com"
+		"name": "mactkg",
+		"email": "mactkg@gmail.com",
+		"url": "https://makerbox.net"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/postmen/node-cloud-print.git"
+		"url": "git://github.com/mactkg/node-cloud-print.git"
 	},
 	"bugs": {
-		"url": "https://github.com/postmen/node-cloud-print/issues"
+		"url": "https://github.com/mactkg/node-cloud-print/issues"
 	},
 	"licenses": [
 		{
 			"type": "MIT",
-			"url": "https://github.com/postmen/node-cloud-print/blob/master/LICENSE-MIT"
+			"url": "https://github.com/mactkg/node-cloud-print/blob/master/LICENSE-MIT"
 		}
 	],
 	"main": "index.js",
